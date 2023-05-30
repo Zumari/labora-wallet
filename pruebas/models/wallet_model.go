@@ -7,5 +7,4 @@ type Wallet struct {
 	DNI           string    `json:"dni_request"`
 	Country       string    `json:"country_id"`
 	Order_request time.Time `json:"order_request"`
-	Balance       float64   `json:"balance"`
 }

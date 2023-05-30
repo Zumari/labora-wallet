@@ -1,0 +1,4 @@
+github.com/Zumari/labora-wallet/labora-wallet v0.0.0-20230526010231-c1219346466c h1:4eLWDJP3WuAQ4dOVH0jaoBeMS+XAyU6IgsgUkShCD7c=
+github.com/Zumari/labora-wallet/labora-wallet v0.0.0-20230526010231-c1219346466c/go.mod h1:xustJFqqOJIUkNLke8+dWJEV7EQdq9KOdl1R2/vlYAI=
+github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
+github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=

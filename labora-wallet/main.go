@@ -4,11 +4,16 @@ import (
 	"log"
 
 	"github.com/Zumari/labora-wallet/labora-wallet/config"
+	db "github.com/Zumari/labora-wallet/labora-wallet/db"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 )
 
 func main() {
+
+	// DATABASE CONNECTION
+	db.Connect_DB()
+
 	router := mux.NewRouter()
 
 	// router.HandleFunc("/CreateWallet", controller.CreateWallet).Methods("POST")
